@@ -143,6 +143,7 @@
 </v>
 <v t="borisov-r.20121115131035.1844"><vh>Posts</vh></v>
 <v t="borisov-r.20121115131035.1845"><vh>Links</vh></v>
+<v t="borisov-r.20121115181635.1848"><vh>javascripts</vh></v>
 </v>
 </vnodes>
 <tnodes>
@@ -787,5 +788,75 @@ Accademical forum of Youth European parlament – France
 Участие на български младежи, членове на Европейските клубове на NABEC в работата на комисиите на Академичния форум към Младежкия европейски парламент във Франция. - 2001, 2004 г.</t>
 <t tx="borisov-r.20121115131035.1844">Here will be placed the current 5 slydes, that rotate at the bottom of the page.</t>
 <t tx="borisov-r.20121115131035.1845">Links to other sites.</t>
+<t tx="borisov-r.20121115181635.1848">&lt;div id="primary" class="widget-area" role="complementary" style="display: none;" background-image=""&gt;
+    &lt;ul class="xoxo"&gt;
+            &lt;li id="nav_menu-8" class="widget-container widget_nav_menu"&gt;&lt;div class="menu-rightside_menu-container"&gt;&lt;ul id="menu-rightside_menu" class="menu"&gt;&lt;li id="menu-item-293" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-55 current_page_item menu-item-293"&gt;&lt;a href="http://www.nabec.eu/wordpress/"&gt;NABEC&lt;/a&gt;&lt;/li&gt;
+            &lt;li id="menu-item-294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-294"&gt;&lt;a href="http://www.nabec.eu/wordpress/european-club/"&gt;European Club&lt;/a&gt;&lt;/li&gt;
+            &lt;li id="menu-item-295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-295"&gt;&lt;a href="http://www.nabec.eu/wordpress/projects/"&gt;Projects&lt;/a&gt;&lt;/li&gt;
+            &lt;li id="menu-item-296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-296"&gt;&lt;a href="http://www.nabec.eu/wordpress/events/"&gt;Events&lt;/a&gt;&lt;/li&gt;
+            &lt;li id="menu-item-297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-297"&gt;&lt;a href="http://www.nabec.eu/wordpress/members/"&gt;Members&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;	&lt;/ul&gt;
+
+    &lt;div id="bgs"&gt;
+        &lt;div class="bg-nav_menu-8"&gt;&lt;/div&gt;
+        &lt;div class="bg-item-294"&gt;&lt;/div&gt;
+        &lt;div class="bg-item-295"&gt;&lt;/div&gt;
+        &lt;div class="bg-item-296"&gt;&lt;/div&gt;
+        &lt;div class="bg-item-297"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+        &lt;style&gt;
+            .xoxo {
+                z-index: 2;
+                position: absolute;
+            }
+
+            #bgs div {
+                display: none;
+                position: absolute;
+                z-index: 1;
+                width: ???px;
+                height: ???px;
+            }
+
+            .bg-nav_menu-8 {
+                background: url(...);
+            }
+
+            .bg-item-294 {
+                background: url(...);
+            }
+
+            .bg-item-295 {
+                background: url(...);
+            }
+
+            .bg-item-296 {
+                background: url(...);
+            }
+
+            .bg-item-297 {
+                background: url(...);
+            }
+        &lt;/style&gt;
+
+
+        &lt;script&gt;
+
+            $('.bg-nav_menu-8').click(show('bg-nav_menu-8'));
+            $('.bg-item-294 ').click(show('bg-item-294'));
+            $('.bg-item-295 ').click(show('bg-item-295'));
+            $('.bg-item-296').click(show('bg-item-296'));
+            $('.bg-item-297').click(show('bg-item-297'));
+
+            function show(classTarget) {
+                $('#bgs div:visibble').fadeOut();
+                $('.' + classTarget).fadeIn();
+            }
+
+
+        &lt;/script&gt;</t>
 </tnodes>
 </leo_file>
