@@ -30,28 +30,28 @@
 <v t="radoslav.20121118094703.1634"><vh>en</vh></v>
 </v>
 </v>
-<v t="borisov-r.20121115101932.1383"><vh>European Club / Европейски клуб</vh>
-<v t="borisov-r.20121115101932.1392" a="E"><vh>What does Euroepean club mean ? / Какво означава "Еропейски клуб" ?</vh>
+<v t="borisov-r.20121115101932.1383" a="E"><vh>European Club / Европейски клуб</vh>
+<v t="borisov-r.20121115101932.1392"><vh>What does Euroepean club mean ? / Какво означава "Еропейски клуб" ?</vh>
 <v t="radoslav.20121118094703.1637"><vh>bg</vh></v>
 <v t="radoslav.20121118094703.1638"><vh>en</vh></v>
 </v>
-<v t="borisov-r.20121115101932.1393" a="E"><vh>Goals and tasks / Задачи и цели</vh>
+<v t="borisov-r.20121115101932.1393"><vh>Goals and tasks / Цели и задачи</vh>
 <v t="radoslav.20121118094703.1635"><vh>bg</vh></v>
 <v t="radoslav.20121118094703.1636"><vh>en</vh></v>
 </v>
-<v t="borisov-r.20121115101932.1395" a="E"><vh>Principles / Принципи</vh>
+<v t="borisov-r.20121115101932.1395"><vh>Principles / Принципи</vh>
 <v t="radoslav.20121118094703.1639"><vh>bg</vh></v>
 <v t="radoslav.20121118094703.1640"><vh>en</vh></v>
 </v>
-<v t="borisov-r.20121115101932.1435" a="E"><vh>Activities / Дейности</vh>
+<v t="borisov-r.20121115101932.1435"><vh>Activities / Дейности</vh>
 <v t="radoslav.20121118094703.1641"><vh>bg</vh></v>
 <v t="radoslav.20121118094703.1642"><vh>en</vh></v>
 </v>
-<v t="borisov-r.20121115101932.1396" a="E"><vh>Rules of communication / Правила на общуване</vh>
+<v t="borisov-r.20121115101932.1396"><vh>Rules of communication / Правила на общуване</vh>
 <v t="radoslav.20121118094703.1643"><vh>bg</vh></v>
 <v t="radoslav.20121118094703.1644"><vh>en</vh></v>
 </v>
-<v t="borisov-r.20121115101932.1397" a="E"><vh>How to establish European club ? / Как се учредява Еропейски клуб ?</vh>
+<v t="borisov-r.20121115101932.1397"><vh>How to establish European club ? / Как се учредява Еропейски клуб ?</vh>
 <v t="radoslav.20121118094703.1645"><vh>bg</vh></v>
 <v t="radoslav.20121118094703.1646"><vh>en</vh></v>
 </v>
