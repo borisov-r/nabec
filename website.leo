@@ -56,86 +56,72 @@
 <v t="radoslav.20121118094703.1646"><vh>en</vh></v>
 </v>
 </v>
-<v t="borisov-r.20121115101932.1535" a="E"><vh>Projects / Проекти</vh>
-<v t="radoslav.20121118094703.1707" a="E"><vh>wordpress</vh>
-<v t="radoslav.20121219203237.1699" a="E"><vh>2012-2010</vh>
+<v t="borisov-r.20121115101932.1535"><vh>Projects / Проекти</vh>
+<v t="radoslav.20121118094703.1707"><vh>wordpress</vh>
+<v t="radoslav.20121226083650.1707"><vh>links</vh></v>
+<v t="radoslav.20121219203237.1699"><vh>2012-12</vh>
+<v t="radoslav.20121226083650.1706"><vh>en</vh></v>
 <v t="radoslav.20121219203237.1700"><vh>bg</vh></v>
 </v>
-<v t="radoslav.20121118094703.1708"><vh>2010-2009</vh>
-<v t="radoslav.20121118094703.1709"><vh>bg</vh></v>
-<v t="radoslav.20121118094703.1710"><vh>en</vh></v>
+<v t="radoslav.20121226083650.1708"><vh>2011-10</vh>
+<v t="radoslav.20121226083650.1709"><vh>en</vh></v>
+<v t="radoslav.20121226083650.1710"><vh>bg</vh></v>
 </v>
-<v t="radoslav.20121118094703.1714"><vh>2008-2007</vh>
-<v t="radoslav.20121118094703.1715"><vh>bg</vh></v>
-<v t="radoslav.20121118094703.1716"><vh>en</vh></v>
+<v t="radoslav.20121226083650.1711"><vh>2010-09</vh>
+<v t="radoslav.20121226083650.1713"><vh>en</vh></v>
+<v t="radoslav.20121226083650.1712"><vh>bg</vh></v>
 </v>
-<v t="radoslav.20121118094703.1720"><vh>2006-2005</vh>
-<v t="radoslav.20121118094703.1721"><vh>bg</vh></v>
-<v t="radoslav.20121118094703.1722"><vh>en</vh></v>
+<v t="radoslav.20121226083650.1714"><vh>2008-07</vh>
+<v t="radoslav.20121226083650.1715"><vh>en</vh></v>
+<v t="radoslav.20121226083650.1716"><vh>bg</vh></v>
 </v>
-<v t="radoslav.20121118094703.1726"><vh>2004-2003</vh>
-<v t="radoslav.20121118094703.1727"><vh>bg</vh></v>
-<v t="radoslav.20121118094703.1728"><vh>en</vh></v>
+<v t="radoslav.20121226083650.1717"><vh>2006-05</vh>
+<v t="radoslav.20121226083650.1718"><vh>en</vh></v>
+<v t="radoslav.20121226083650.1719"><vh>bg</vh></v>
 </v>
-<v t="radoslav.20121118094703.1732"><vh>2003-2002</vh>
-<v t="radoslav.20121118094703.1733"><vh>bg</vh></v>
-<v t="radoslav.20121118094703.1734"><vh>en</vh></v>
+<v t="radoslav.20121226083650.1720"><vh>2004-03</vh>
+<v t="radoslav.20121226083650.1721"><vh>en</vh></v>
+<v t="radoslav.20121226083650.1722"><vh>bg</vh></v>
 </v>
-<v t="radoslav.20121118094703.1738"><vh>2001-2000</vh>
-<v t="radoslav.20121118094703.1739"><vh>bg</vh></v>
-<v t="radoslav.20121118094703.1740"><vh>en</vh></v>
+<v t="radoslav.20121226083650.1723"><vh>2003-02</vh>
+<v t="radoslav.20121226083650.1724"><vh>en</vh></v>
+<v t="radoslav.20121226083650.1725"><vh>bg</vh></v>
+</v>
+<v t="radoslav.20121226083650.1726"><vh>2001-00</vh>
+<v t="radoslav.20121226083650.1727"><vh>en</vh></v>
+<v t="radoslav.20121226083650.1728"><vh>bg</vh></v>
 </v>
 </v>
-<v t="radoslav.20121219203237.1692"><vh>2012-2008</vh>
+<v t="radoslav.20121219203237.1692"><vh>2012-2012</vh>
 <v t="radoslav.20121219203237.1694"><vh>bg</vh></v>
 <v t="radoslav.20121219203237.1698"><vh>en</vh></v>
 </v>
-<v t="radoslav.20121219203237.1696"><vh>2011</vh>
+<v t="radoslav.20121219203237.1696"><vh>2011-2010</vh>
 <v t="radoslav.20121219203237.1697"><vh>bg</vh></v>
 </v>
-<v t="borisov-r.20121115101932.1536"><vh>2010</vh>
-<v t="radoslav.20121118094703.1624"><vh>bg</vh></v>
+<v t="borisov-r.20121115101932.1536"><vh>2010-2009</vh>
 <v t="radoslav.20121118094703.1625"><vh>en</vh></v>
+<v t="radoslav.20121118094703.1624"><vh>bg</vh></v>
 </v>
-<v t="borisov-r.20121115101932.1537"><vh>2009</vh>
-<v t="radoslav.20121118094703.1622"><vh>bg</vh></v>
-<v t="radoslav.20121118094703.1623"><vh>en</vh></v>
-</v>
-<v t="borisov-r.20121115101932.1538"><vh>2008</vh>
+<v t="borisov-r.20121115101932.1538"><vh>2008-2007</vh>
 <v t="radoslav.20121118094703.1620"><vh>bg</vh></v>
 <v t="radoslav.20121118094703.1621"><vh>en</vh></v>
 </v>
-<v t="borisov-r.20121115101932.1539"><vh>2007</vh>
-<v t="radoslav.20121118094703.1618"><vh>bg</vh></v>
-<v t="radoslav.20121118094703.1619"><vh>en</vh></v>
-</v>
-<v t="borisov-r.20121115101932.1540"><vh>2006</vh>
+<v t="borisov-r.20121115101932.1540"><vh>2006-2005</vh>
 <v t="radoslav.20121118094703.1616"><vh>bg</vh></v>
 <v t="radoslav.20121118094703.1617"><vh>en</vh></v>
-</v>
-<v t="borisov-r.20121115101932.1541"><vh>2005</vh>
-<v t="radoslav.20121118094703.1614"><vh>bg</vh></v>
-<v t="radoslav.20121118094703.1615"><vh>en</vh></v>
 </v>
 <v t="borisov-r.20121115101932.1542"><vh>2004-2003</vh>
 <v t="radoslav.20121118094703.1612"><vh>bg</vh></v>
 <v t="radoslav.20121118094703.1613"><vh>en</vh></v>
 </v>
-<v t="borisov-r.20121115101932.1543"><vh>2003</vh>
+<v t="borisov-r.20121115101932.1543"><vh>2003-2002</vh>
 <v t="radoslav.20121118094703.1610"><vh>bg</vh></v>
 <v t="radoslav.20121118094703.1611"><vh>en</vh></v>
 </v>
-<v t="borisov-r.20121115101932.1544"><vh>2002</vh>
-<v t="radoslav.20121118094703.1607"><vh>bg</vh></v>
-<v t="radoslav.20121118094703.1609"><vh>en</vh></v>
-</v>
-<v t="borisov-r.20121115101932.1545"><vh>2001</vh>
+<v t="borisov-r.20121115101932.1545" a="E"><vh>2001-2000</vh>
 <v t="radoslav.20121118094703.1604"><vh>bg</vh></v>
 <v t="radoslav.20121118094703.1603"><vh>en</vh></v>
-</v>
-<v t="borisov-r.20121115101932.1546"><vh>2000</vh>
-<v t="radoslav.20121118094703.1601"><vh>en</vh></v>
-<v t="radoslav.20121118094703.1602"><vh>bg</vh></v>
 </v>
 </v>
 <v t="borisov-r.20121115101932.1554"><vh>Events / Събития</vh>
@@ -347,16 +333,11 @@ How to establish European club ?
 <t tx="borisov-r.20121115101932.1535">NABEC's projects during the years.
 Проекти реализирани през годините.</t>
 <t tx="borisov-r.20121115101932.1536"></t>
-<t tx="borisov-r.20121115101932.1537"></t>
 <t tx="borisov-r.20121115101932.1538"></t>
-<t tx="borisov-r.20121115101932.1539"></t>
 <t tx="borisov-r.20121115101932.1540"></t>
-<t tx="borisov-r.20121115101932.1541"></t>
 <t tx="borisov-r.20121115101932.1542"></t>
 <t tx="borisov-r.20121115101932.1543"></t>
-<t tx="borisov-r.20121115101932.1544"></t>
 <t tx="borisov-r.20121115101932.1545"></t>
-<t tx="borisov-r.20121115101932.1546"></t>
 <t tx="borisov-r.20121115101932.1554">Какво още реализира NABEC ?
 
 
@@ -458,85 +439,84 @@ How to establish European club ?
 
 
         &lt;/script&gt;</t>
-<t tx="radoslav.20121118094703.1601"></t>
-<t tx="radoslav.20121118094703.1602">“Европейските клубове – среща за диалог и реализация на европейското измерение в образованието и възпитанието”, 2000 
+<t tx="radoslav.20121118094703.1603">“Една звезда устремена към семейството на другите звезди” - 2001 г.
+Проект, реализиран по програма “Европа” на Европейската комисия. В работата по проекта участват партньори от Международната мрежа на Европейските клубове от Франция, Белгия, Португалия. Средношколци от 4 държави представят интеграционните процеси в Европа в различен аспект.
+Проектът получава първа награда в конкурса “Направено в България с подкрепата на Европа” – май 2002г в областта “Демокрация и гражданско общество”.</t>
+<t tx="radoslav.20121118094703.1604">“Една звезда устремена към семейството на другите звезди”, 2001
+Проект, реализиран по програма “Европа” на Европейската комисия. В работата му се включват партньори от Международната мрежа на Европейските клубове от България, Франция, Белгия и Португалия. Средношколци от 4 държави представят интеграционните процеси в Европа в различен аспект. Проектът получава първа награда в конкурса “Направено в България с подкрепата на Европа” – май 2002г в областта “Демокрация и гражданско общество”.
+
+“Европейските клубове – среща за диалог и реализация на европейското измерение в образованието и възпитанието”, 2000 
 Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. На национална среща на Европейските клубове, октомври 2000 г в гр.Банкя се затвърждава убеждението за правилната посока на развитие на новата форма на извънкласна дейност в България – Европейски клуб.
 
 “Широките възможности на европейските клубове като извънкласна форма на дейност”, 2000
 Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. На национална среща на Европейските клубове, 7-8 април 2000 г в София се учредява Национално сдружение на българските Европейски клубове.</t>
-<t tx="radoslav.20121118094703.1603">“Една звезда устремена към семейството на другите звезди” - 2001 г.
-Проект, реализиран по програма “Европа” на Европейската комисия. В работата по проекта участват партньори от Международната мрежа на Европейските клубове от Франция, Белгия, Португалия. Средношколци от 4 държави представят интеграционните процеси в Европа в различен аспект.
-Проектът получава първа награда в конкурса “Направено в България с подкрепата на Европа” – май 2002г в областта “Демокрация и гражданско общество”.
-
-"National art through the eyes of professionals and young artists" - 2001
-Aimed at bringing young people to European values. Aims at understanding the EU as a unity of diversity.</t>
-<t tx="radoslav.20121118094703.1604">“Една звезда устремена към семейството на другите звезди”, 2001
-Проект, реализиран по програма “Европа” на Европейската комисия. В работата му се включват партньори от Международната мрежа на Европейските клубове от България, Франция, Белгия и Португалия. Средношколци от 4 държави представят интеграционните процеси в Европа в различен аспект. Проектът получава първа награда в конкурса “Направено в България с подкрепата на Европа” – май 2002г в областта “Демокрация и гражданско общество”.</t>
-<t tx="radoslav.20121118094703.1607">“Коледен поздрав за Европа”, 2002
-Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. Ученици рисуват коледни картички с включени три елементи: коледен, национален и европейски. Наминираната за първа награда рисунка става коледна картичка на Делегацията на Европейдската комисия в България за Новата 2003 година.</t>
-<t tx="radoslav.20121118094703.1609">"Christmas greeting for Europe" - 2002
-Project implemented with the support of the Delegation of Evropeydskata Commission in Bulgaria.
-Students draw Christmas cards interweaving of three elements - Christmas, national and European.
-Naminiranata first prize for painting was a Christmas card Evropeydskata Commission Delegation in Bulgaria for the new 2003.</t>
-<t tx="radoslav.20121118094703.1610">“Интерактивни методи на работа на Европейските клубове”, 2003
-Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. Разглежда се използването на методи за оригинално представяне и изучаване на европейската проблематика и възможностите за включване на интерактиви методи в работата на Европейските клубове в България.
-
-“CD-тестове за европейската интеграция”, 2003 
+<t tx="radoslav.20121118094703.1610">„CD-тестове за европейската интеграция”, 2003 
 Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. Създават се CD-тестове и на тяхна база се провежда интерактивна игра за знания за Европейския съюз.
 
-“За бъдеща Европа”, 2003
-Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. Провокира се творческата активност на децата, развива се абстрактното мислене, изгражда се и се развиват умения за художествено изразяване на идеи и включване на европейската идея в тяхното мислене. Провежда се национален конкурс - училищен вестник “ЕВРОПАНОРАМА”.</t>
-<t tx="radoslav.20121118094703.1611">"For the future of Europe" - 2003
-Project implemented with the support of the Delegation of Evropeydskata Commission in Bulgaria.
-Provoked is the creative activity of children, develops abstract thinking, build and develop skills for artistic expression of ideas and involvement of the European idea in their thinking.
-Carry out a national competition - school newspaper "EVROPANORAMA."
+„За бъдеща Европа”, 2003
+Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. Провокира се творческата активност на децата, развива се абстрактното мислене, изгражда се и се развиват умения за художествено изразяване на идеи и включване на европейската идея в тяхното мислене. Провежда се национален конкурс - училищен вестник “ЕВРОПАНОРАМА”.
 
-"CD-tests for European integration" - 2003
+„Коледен поздрав за Европа”, 2002
+Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. Ученици рисуват коледни картички с включени три елементи: коледен, национален и европейски. Наминираната за първа награда рисунка става коледна картичка на Делегацията на Европейдската комисия в България за Новата 2003 година.</t>
+<t tx="radoslav.20121118094703.1611">"CD-tests for European integration" - 2003
 Project implemented with the support of European Commission Delegation in Bulgaria.
 Implemented CD is an interactive game of knowledge about the European Union.
 
 "Interactive methods of work of the European clubs" - 2003
 Project implemented with the support of European Commission Delegation in Bulgaria
-Emphasis on the use of original methods of presentation and study of European issues and opportunities for the inclusion of interactive methods in the work of European clubs in Bulgaria.</t>
-<t tx="radoslav.20121118094703.1612">“Европа за нас”, 2004 
+Emphasis on the use of original methods of presentation and study of European issues and opportunities for the inclusion of interactive methods in the work of European clubs in Bulgaria.
+
+"Christmas greeting for Europe" - 2002
+Project implemented with the support of the Delegation of Evropeydskata Commission in Bulgaria.
+Students draw Christmas cards interweaving of three elements - Christmas, national and European.
+Naminiranata first prize for painting was a Christmas card Evropeydskata Commission Delegation in Bulgaria for the new 2003.</t>
+<t tx="radoslav.20121118094703.1612">„Европа за нас”, 2004 
 Проект по Комуникационната стратегия на България за  пълноправночленство в ЕС.
 Създаден е документален филм, представящ образователните програми на Европейския съюз.
 
-“Европейските клубове – образователна форма за изграждане съзнание за европейско гражданство”, 2003 
-Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. Работата акцентира върху разбирането на българското участие в европейската интеграция и отстояването на българските позиции в този обединителен процес и се провокира гражданската активност на младите хора.</t>
-<t tx="radoslav.20121118094703.1613">"European clubs - a form of education to build awareness of European citizenship" - 2004
+„Европейските клубове – образователна форма за изграждане съзнание за европейско гражданство”, 2003 
+Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. Работата акцентира върху разбирането на българското участие в европейската интеграция и отстояването на българските позиции в този обединителен процес и се провокира гражданската активност на младите хора.
+
+„Интерактивни методи на работа на Европейските клубове”, 2003
+Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. Разглежда се използването на методи за оригинално представяне и изучаване на европейската проблематика и възможностите за включване на интерактиви методи в работата на Европейските клубове в България.</t>
+<t tx="radoslav.20121118094703.1613">"Europe for us" - 2004
+Project communication strategy of Bulgaria for EU membership.
+Realized a documentary, presenting educational programs of the European Union.
+
+"European clubs - a form of education to build awareness of European citizenship" - 2003
 Project implemented with the support of European Commission Delegation in Bulgaria.
 The emphasis is on understanding the Bulgarian participation in European integration and defending the Bulgarian positions in the unification process, which provokes the civic activism of young people.
 
-"Europe for us" - 2004
-Project communication strategy of Bulgaria for EU membership.
-Realized a documentary, presenting educational programs of the European Union.</t>
-<t tx="radoslav.20121118094703.1614">“Европейските клубове в България и тяхната роля за европейското образование на младите хора”, 2005
-Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. На национална среща на Европейските клубове в София се споделя убеждението за непрекъснато провокиране вниманието и интереса на учениците към нови знания, чрез новата форма на извънкласна работа с ученици – Европейски клуб. Отчита се необходимостта от по-голяма съпричастност на учителските колективи и на родителите.</t>
-<t tx="radoslav.20121118094703.1615">"European clubs in Bulgaria and their role in European education of young people" - 2005
-Project implemented with the support of European Commission Delegation in Bulgaria.
-National Meeting of the European clubs in Sofia, which shares the conviction of continuous attention and provoking interest of students to new knowledge. In this process need greater involvement by teams of teachers and parents.</t>
+"For the future of Europe" - 2003
+Project implemented with the support of the Delegation of Evropeydskata Commission in Bulgaria.
+Provoked is the creative activity of children, develops abstract thinking, build and develop skills for artistic expression of ideas and involvement of the European idea in their thinking.
+Carry out a national competition - school newspaper "EVROPANORAMA."</t>
 <t tx="radoslav.20121118094703.1616">„Всички различни – всички равни”, 2006
 Участие на Европейските клубове в страната с дейности в рамките на европейската инициатива „Всички различни – всички равни”, финансово подкрепени от Министерство на образованието и науката и Съвета на Европа.
 
-“Младите българи и предизвикателствата на европейското гражданско общество”, 2006  
-Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. На национална среща на Европейските клубове в Плевен се получава актуална и компетентна информация относно новите процеси на европейска интеграция и се дискутира как българските ценности могат да се впишат в европейските.</t>
+„Младите българи и предизвикателствата на европейското гражданско общество”, 2006  
+Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. На национална среща на Европейските клубове в Плевен се получава актуална и компетентна информация относно новите процеси на европейска интеграция и се дискутира как българските ценности могат да се впишат в европейските.
+
+„Европейските клубове в България и тяхната роля за европейското образование на младите хора”, 2005
+Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. На национална среща на Европейските клубове в София се споделя убеждението за непрекъснато провокиране вниманието и интереса на учениците към нови знания, чрез новата форма на извънкласна работа с ученици – Европейски клуб. Отчита се необходимостта от по-голяма съпричастност на учителските колективи и на родителите.</t>
 <t tx="radoslav.20121118094703.1617">"Young Bulgarians and challenges European civil society" - 2006
 Project implemented with the support of the Delegation of Evropeydskata Commission in Bulgaria.
 National Meeting of the European clubs in Pleven, which is obtained and competent information on new processes of European integration and discusses how Bulgarian values ​​may be entered in the European.
 
 "All Different - All Equal" - 2006
-Ministry of Education and Science jointly promote the development of activities of European clubs in the country within the European campaign "All different - all equal".</t>
-<t tx="radoslav.20121118094703.1618">“Младите българи за бъдеща Европа”, 2007  
-Проект, реализиран с подкрепата на Представителството на Европейдската комисия в България. Работата е насочена към провокиране на младежката активност и отговорност за бъдещето на страната, на обединена Европа.</t>
-<t tx="radoslav.20121118094703.1619">"Young Bulgarians for the future of Europe" - 2007
-Project implemented with the support of the Representation of Evropeydskata Commission in Bulgaria.
-Aimed at provoking the youth activity and responsibility for the future of the country, a united Europe.</t>
+Ministry of Education and Science jointly promote the development of activities of European clubs in the country within the European campaign "All different - all equal".
+
+"European clubs in Bulgaria and their role in European education of young people" - 2005
+Project implemented with the support of European Commission Delegation in Bulgaria.
+National Meeting of the European clubs in Sofia, which shares the conviction of continuous attention and provoking interest of students to new knowledge. In this process need greater involvement by teams of teachers and parents.</t>
 <t tx="radoslav.20121118094703.1620">„Всичко започва от нас”, 2008
 Проект, реализиран с подкрепата на Представителството на Европейдската комисия в България. Провеждат се поредица от дейности, изразяващи съпричастността на младите хора от Европейските клубове към опазването на околната среда: почистване на устието на р.Искър в Панчаревското езеро; засаждане на липи.
 
-“Европейските клубове – форма на младежката активност”, 2008
-Проект, реализиран с подкрепата на Представителството на Европейдската комисия в България. Младите дискутират и представят своята позиция за процесите на европейска интеграция след една година членство на страната ни в Европейския съюз.</t>
+„Европейските клубове – форма на младежката активност”, 2008
+Проект, реализиран с подкрепата на Представителството на Европейдската комисия в България. Младите дискутират и представят своята позиция за процесите на европейска интеграция след една година членство на страната ни в Европейския съюз.
+
+„Младите българи за бъдеща Европа”, 2007  
+Проект, реализиран с подкрепата на Представителството на Европейдската комисия в България. Работата е насочена към провокиране на младежката активност и отговорност за бъдещето на страната, на обединена Европа.</t>
 <t tx="radoslav.20121118094703.1621">"European clubs - a form of youth activity" - 2008 
 Project implemented with the support of the European Commission Representation in Bulgaria.
 Emphasis is youthful look one year membership in the European Union.
@@ -544,27 +524,30 @@ Emphasis is youthful look one year membership in the European Union.
 "Everything begins with us" - 2008
 Project implemented with the support of the European Commission Representation in Bulgaria.
 Conducted a series of activities showing the involvement of young people from European clubs to the environment.
-Cleaning the mouth of the river Iskar in Pancharevo lake and planting of three limes.</t>
-<t tx="radoslav.20121118094703.1622">„Euroscola Day”, програма на Европейския парламент - 2008, 2009 г.
+Cleaning the mouth of the river Iskar in Pancharevo lake and planting of three limes.
+
+"Young Bulgarians for the future of Europe" - 2007
+Project implemented with the support of the Representation of Evropeydskata Commission in Bulgaria.
+Aimed at provoking the youth activity and responsibility for the future of the country, a united Europe.</t>
+<t tx="radoslav.20121118094703.1624">„За по-устойчив Дом”, 2010
+Проект, реализиран по Европейската образователна програма „Младежта в действие”
+Провеждане на редица еко-инициативи на Европейските клябове от различни градове в страната, подкрепящи призивите на Международната 2010-та година за запазване на биологичното разнообразие.
+
+„Euroscola Day”, програма на Европейския парламент - 2008, 2009 г.
 Участие на над 700 средношколци от 18 клуба на страната в програма на Европейския парламент за запознаване с работата на Европейския парламент чрез симулативни игри в Страсбург. 
 
 „Образование, иновации, работа”, 2009  
 Проект, реализиран с подкрепата на Представителството на Европейдската комисия в България. Дискутират се новите насоки в политиките на Европейския съюз за европейско образование и реализацията на младите хора.</t>
-<t tx="radoslav.20121118094703.1623">"Euroscola Day", Programme of the European Parliament - 2008, 2009
+<t tx="radoslav.20121118094703.1625">"For a sustainable home" - 2010
+Project under the European educational program "Youth in Action"
+Conducting a number of eco-initiatives of the European klyabove from different cities in the country supporting international calls in 2010 to preserve biodiversity.
+
+"Euroscola Day", Programme of the European Parliament - 2008, 2009
 Participation of over 700 high school students from 18 clubs in the country program of the European Parliament to study the work of the European Parliament by simulation games in Strasbourg.
 
 „Education, innovation, job" - 2009
 Project implemented with the support of the Representation of Evropeydskata Commission in Bulgaria.
 Discussed new developments in EU policies for European education and professional development of young people.</t>
-<t tx="radoslav.20121118094703.1624">„Как да преподаваме интерактивно”, 2010
-Провеждане на обучения за учители и експерти, по мярка „Образователни дейности” на секторните програми „Коменски” и „Грюндвиг”, на програма „Учене през целия живот.
-
-„За по-устойчив Дом”, 2010
-Проект, реализиран по Европейската образователна програма „Младежта в действие”
-Провеждане на редица еко-инициативи на Европейските клябове от различни градове в страната, подкрепящи призивите на Международната 2010-та година за запазване на биологичното разнообразие.</t>
-<t tx="radoslav.20121118094703.1625">"For a sustainable home" - 2010
-Project under the European educational program "Youth in Action"
-Conducting a number of eco-initiatives of the European klyabove from different cities in the country supporting international calls in 2010 to preserve biodiversity.</t>
 <t tx="radoslav.20121118094703.1626">Какво представлява NABEC ?
 NABEC е мрежа на Европейските клубове на училищата в България.
 
@@ -892,181 +875,6 @@ Accademical forum of Youth European parlament – France
 Участие на български младежи, членове на Европейските клубове на NABEC в работата на комисиите на Академичния форум към Младежкия европейски парламент във Франция. - 2001, 2004 г.</t>
 <t tx="radoslav.20121118094703.1706"></t>
 <t tx="radoslav.20121118094703.1707"></t>
-<t tx="radoslav.20121118094703.1708"></t>
-<t tx="radoslav.20121118094703.1709">&lt;p id="myProjects_new"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;„За по-устойчив Дом”&lt;/em&gt; - 2010 г.&lt;/strong&gt;
-Проект, реализиран по Европейската образователна програма „Младежта в действие”.
-Провеждане на редица еко-инициативи на Европейските клябове от различни градове в страната, подкрепящи призивите на Международната 2010-та година за запазване на биологичното разнообразие.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;„Euroscola Day”, програма на Европейския парламент&lt;/em&gt; - 2008, 2009 г.&lt;/strong&gt;
-Участие на над 700 средношколци от 18 клуба на страната в програма на Европейския парламент за запознаване с работата на Европейския парламент чрез симулативни игри в Страсбург.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;„Образование, иновации, работа”&lt;/em&gt; - 2009 г.&lt;/strong&gt;
-Проект, реализиран с подкрепата на Представителството на Европейдската комисия в България.
-Дискутират се новите насоки в политиките на Европейския съюз за европейско образование и реализацията на младите хора.&lt;/p&gt;
-
-&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;
-&lt;p style="text-align: right; margin-top: 0px; margin-right: 15px; padding-top: 2px;"&gt;&lt;a href="http://www.nabec.eu/wordpress/projects/2010-2009/"&gt;[2010-2009]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2008-2007/"&gt;[2008-2007]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2006-2005/"&gt;[2006-2005]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2004-2003/"&gt;[2004-2003]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2003-2002/"&gt;[2003-2002]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2001-2000/"&gt;[2001-2000]&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</t>
-<t tx="radoslav.20121118094703.1710">&lt;p id="myProjects_new"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;"For a sustainable home"&lt;/em&gt; - 2010&lt;/strong&gt;
-Project under the European educational program "Youth in Action"
-Conducting a number of eco-initiatives of the European klyabove from different cities in the country supporting international calls in 2010 to preserve biodiversity.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;"Euroscola Day", Programme of the European Parliament&lt;/em&gt; - 2008, 2009&lt;/strong&gt;
-Participation of over 700 high school students from 18 clubs in the country program of the European Parliament to study the work of the European Parliament by simulation games in Strasbourg.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;„Education, innovation, job"&lt;/em&gt; - 2009&lt;/strong&gt;
-Project implemented with the support of the Representation of Evropeydskata Commission in Bulgaria.
-Discussed new developments in EU policies for European education and professional development of young people.&lt;/p&gt;
-
-&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;
-&lt;p style="text-align: right; margin-top: 0px; margin-right: 15px; padding-top: 2px;"&gt;&lt;a href="http://www.nabec.eu/wordpress/projects/2010-2009/"&gt;[2010-2009]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2008-2007/"&gt;[2008-2007]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2006-2005/"&gt;[2006-2005]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2004-2003/"&gt;[2004-2003]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2003-2002/"&gt;[2003-2002]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2001-2000/"&gt;[2001-2000]&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</t>
-<t tx="radoslav.20121118094703.1714"></t>
-<t tx="radoslav.20121118094703.1715">&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;“Европейските клубове – форма на младежката активност”&lt;/em&gt; - 2008 г.&lt;/strong&gt;
-Проект, реализиран с подкрепата на Представителството на Европейдската комисия в България.
-Акцент е младежкият поглед от една година членство в Европейския съюз.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;„Всичко започва от нас”&lt;/em&gt; - 2008 г.&lt;/strong&gt;
-Проект, реализиран с подкрепата на Представителството на Европейдската комисия в България.
-Провеждат се поредица от дейности, показващи съпричастността на младите хора от Европейските клубове към опазването на околната среда.
-Почистване устието на р.Искър в Панчаревското езеро и засаждане на три липи.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;“Младите българи за бъдеща Европа”&lt;/em&gt; - 2007 г.&lt;/strong&gt;
-Проект, реализиран с подкрепата на Представителството на Европейдската комисия в България.
-Насочен към провокиране на младежката активност и отговорност за бъдещето на страната, на обединена Европа.&lt;/p&gt;
-
-&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;
-&lt;p style="text-align: right; margin-top: 0px; margin-right: 15px; padding-top: 2px;"&gt;&lt;a href="http://www.nabec.eu/wordpress/projects/2010-2009/"&gt;[2010-2009]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2008-2007/"&gt;[2008-2007]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2006-2005/"&gt;[2006-2005]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2004-2003/"&gt;[2004-2003]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2003-2002/"&gt;[2003-2002]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2001-2000/"&gt;[2001-2000]&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</t>
-<t tx="radoslav.20121118094703.1716">&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;"European clubs - a form of youth activity"&lt;/em&gt; - 2008&lt;/strong&gt;
-Project implemented with the support of the European Commission Representation in Bulgaria.
-Emphasis is youthful look one year membership in the European Union.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;"Everything begins with us"&lt;/em&gt; - 2008&lt;/strong&gt;
-Project implemented with the support of the European Commission Representation in Bulgaria.
-Conducted a series of activities showing the involvement of young people from European clubs to the environment.
-Cleaning the mouth of the river Iskar in Pancharevo lake and planting of three limes.
-&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;"Young Bulgarians for the future of Europe"&lt;/em&gt; - 2007&lt;/strong&gt;
-Project implemented with the support of the Representation of Evropeydskata Commission in Bulgaria.
-Aimed at provoking the youth activity and responsibility for the future of the country, a united Europe.&lt;/p&gt;
-
-&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;
-&lt;p style="text-align: right; margin-top: 0px; margin-right: 15px; padding-top: 2px;"&gt;&lt;a href="http://www.nabec.eu/wordpress/projects/2010-2009/"&gt;[2010-2009]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2008-2007/"&gt;[2008-2007]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2006-2005/"&gt;[2006-2005]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2004-2003/"&gt;[2004-2003]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2003-2002/"&gt;[2003-2002]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2001-2000/"&gt;[2001-2000]&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</t>
-<t tx="radoslav.20121118094703.1720"></t>
-<t tx="radoslav.20121118094703.1721">&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;“Младите българи и предизвикателствата на европейското гражданско общество”&lt;/em&gt; - 2006 г.&lt;/strong&gt;
-Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България.
-Национална среща на Европейските клубове в Плевен, на която се получава актуална и компетентна информация относно новите процеси на европейска интеграция и се дискутира как българските ценности могат да се впишат в европейските.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;„Всички различни – всички равни”&lt;/em&gt; - 2006 г.&lt;/strong&gt;
-Министерство на образованието и науката съдейства за съвместно разработване на дейности на Европейските клубове в страната в рамките на европейската инициатива „Всички различни – всички равни”.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;“Европейските клубове в България и тяхната роля за европейското образование на младите хора”&lt;/em&gt; - 2005 г.&lt;/strong&gt;
-Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България.
-Национална среща на Европейските клубове в София, на която се споделя убеждението за непрекъснато провокиране вниманието и интереса на учениците към нови знания. В този процес е необходима по-голяма съпричастност от страна на учителските колективи и на родителите.&lt;/p&gt;
-
-&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;
-&lt;p style="text-align: right; margin-top: 0px; margin-right: 15px; padding-top: 2px;"&gt;&lt;a href="http://www.nabec.eu/wordpress/projects/2010-2009/"&gt;[2010-2009]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2008-2007/"&gt;[2008-2007]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2006-2005/"&gt;[2006-2005]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2004-2003/"&gt;[2004-2003]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2003-2002/"&gt;[2003-2002]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2001-2000/"&gt;[2001-2000]&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</t>
-<t tx="radoslav.20121118094703.1722">&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;"Young Bulgarians and challenges European civil society"&lt;/em&gt; - 2006&lt;/strong&gt;
-Project implemented with the support of the Delegation of Evropeydskata Commission in Bulgaria.
-National Meeting of the European clubs in Pleven, which is obtained and competent information on new processes of European integration and discusses how Bulgarian values ​​may be entered in the European.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;"All Different - All Equal"&lt;/em&gt; - 2006&lt;/strong&gt;
-Ministry of Education and Science jointly promote the development of activities of European clubs in the country within the European campaign "All different - all equal".&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;"European clubs in Bulgaria and their role in European education of young people"&lt;/em&gt; - 2005&lt;/strong&gt;
-Project implemented with the support of European Commission Delegation in Bulgaria.
-National Meeting of the European clubs in Sofia, which shares the conviction of continuous attention and provoking interest of students to new knowledge. In this process need greater involvement by teams of teachers and parents.&lt;/p&gt;
-
-&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;
-&lt;p style="text-align: right; margin-top: 0px; margin-right: 15px; padding-top: 2px;"&gt;&lt;a href="http://www.nabec.eu/wordpress/projects/2010-2009/"&gt;[2010-2009]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2008-2007/"&gt;[2008-2007]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2006-2005/"&gt;[2006-2005]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2004-2003/"&gt;[2004-2003]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2003-2002/"&gt;[2003-2002]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2001-2000/"&gt;[2001-2000]&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</t>
-<t tx="radoslav.20121118094703.1726"></t>
-<t tx="radoslav.20121118094703.1727">&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;“Европейските клубове – &lt;br&gt;образователна форма за изграждане съзнание за европейско гражданство”&lt;/em&gt; - 2004 г.&lt;/strong&gt;
-Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България.
-Поставя се акцент върху разбирането на българското участие в европейската интеграция и отстояването на българските позиции в този обединителен процес, с което се провокира гражданската активност на младите хора.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;“Европа за нас”&lt;/em&gt; - 2004 г.&lt;/strong&gt;
-Проект по Комуникационната стратегия на България за  пълноправночленство в ЕС.
-Реализиран е документален филм, представящ образователните програми на Европейския съюз.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;“За бъдеща Европа”&lt;/em&gt; - 2003 г.&lt;/strong&gt;
-Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България.
-Провокира се творческата активност на децата, развива се абстрактното мислене, изгражда се и се развиват умения за художествено изразяване на идеи и включване на европейската идея в тяхното мислене.
-Провежда се национален конкурс - училищен вестник “ЕВРОПАНОРАМА”.&lt;/p&gt;
-
-&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;
-&lt;p style="text-align: right; margin-top: 0px; margin-right: 15px; padding-top: 2px;"&gt;&lt;a href="http://www.nabec.eu/wordpress/projects/2010-2009/"&gt;[2010-2009]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2008-2007/"&gt;[2008-2007]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2006-2005/"&gt;[2006-2005]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2004-2003/"&gt;[2004-2003]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2003-2002/"&gt;[2003-2002]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2001-2000/"&gt;[2001-2000]&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</t>
-<t tx="radoslav.20121118094703.1728">&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;"European clubs - a form of education to build awareness of European citizenship"&lt;/em&gt; - 2004&lt;/strong&gt;
-Project implemented with the support of European Commission Delegation in Bulgaria.
-The emphasis is on understanding the Bulgarian participation in European integration and defending the Bulgarian positions in the unification process, which provokes the civic activism of young people.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;"Europe for us"&lt;/em&gt; - 2004&lt;/strong&gt;
-Project communication strategy of Bulgaria for EU membership.
-Realized a documentary, presenting educational programs of the European Union.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;"For the future of Europe"&lt;/em&gt; - 2003&lt;/strong&gt;
-Project implemented with the support of the Delegation of Evropeydskata Commission in Bulgaria.
-Provoked is the creative activity of children, develops abstract thinking, build and develop skills for artistic expression of ideas and involvement of the European idea in their thinking.
-Carry out a national competition - school newspaper "EVROPANORAMA."&lt;/p&gt;
-
-&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;
-&lt;p style="text-align: right; margin-top: 0px; margin-right: 15px; padding-top: 2px;"&gt;&lt;a href="http://www.nabec.eu/wordpress/projects/2010-2009/"&gt;[2010-2009]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2008-2007/"&gt;[2008-2007]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2006-2005/"&gt;[2006-2005]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2004-2003/"&gt;[2004-2003]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2003-2002/"&gt;[2003-2002]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2001-2000/"&gt;[2001-2000]&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</t>
-<t tx="radoslav.20121118094703.1732"></t>
-<t tx="radoslav.20121118094703.1733">&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;“CD-тестове за европейската интеграция”&lt;/em&gt; - 2003 г.&lt;/strong&gt;
-Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България.
-Реализирана е CD интерактивна игра за знания за Европейския съюз.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;“Интерактивни методи на работа на Европейските клубове”&lt;/em&gt; - 2003 г.&lt;/strong&gt;
-Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България
-Акцентира върху използването на методи за оригинално представяне и изучаване на европейската проблематика и възможностите за включване на интерактиви методи в работата на Европейските клубове в България.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;“Коледен поздрав за Европа”&lt;/em&gt; - 2002 г.&lt;/strong&gt;
-Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България.
-Ученици рисуват коледни картички с преплитане на три елемента – коледен, национален и европейски.
-Наминираната за първа награда рисунка става коледна картичка на Делегацията на Европейдската комисия в България за Новата 2003 година.&lt;/p&gt;
-
-&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;
-&lt;p style="text-align: right; margin-top: 0px; margin-right: 15px; padding-top: 2px;"&gt;&lt;a href="http://www.nabec.eu/wordpress/projects/2010-2009/"&gt;[2010-2009]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2008-2007/"&gt;[2008-2007]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2006-2005/"&gt;[2006-2005]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2004-2003/"&gt;[2004-2003]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2003-2002/"&gt;[2003-2002]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2001-2000/"&gt;[2001-2000]&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</t>
-<t tx="radoslav.20121118094703.1734">&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;"CD-tests for European integration"&lt;/em&gt; - 2003&lt;/strong&gt;
-Project implemented with the support of European Commission Delegation in Bulgaria.
-Implemented CD is an interactive game of knowledge about the European Union.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;"Interactive methods of work of the European clubs"&lt;/em&gt; - 2003&lt;/strong&gt;
-Project implemented with the support of European Commission Delegation in Bulgaria
-Emphasis on the use of original methods of presentation and study of European issues and opportunities for the inclusion of interactive methods in the work of European clubs in Bulgaria.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;"Christmas greeting for Europe"&lt;/em&gt; - 2002&lt;/strong&gt;
-Project implemented with the support of the Delegation of Evropeydskata Commission in Bulgaria.
-Students draw Christmas cards interweaving of three elements - Christmas, national and European.
-Naminiranata first prize for painting was a Christmas card Evropeydskata Commission Delegation in Bulgaria for the new 2003.&lt;/p&gt;
-
-&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;
-&lt;p style="text-align: right; margin-top: 0px; margin-right: 15px; padding-top: 2px;"&gt;&lt;a href="http://www.nabec.eu/wordpress/projects/2010-2009/"&gt;[2010-2009]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2008-2007/"&gt;[2008-2007]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2006-2005/"&gt;[2006-2005]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2004-2003/"&gt;[2004-2003]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2003-2002/"&gt;[2003-2002]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2001-2000/"&gt;[2001-2000]&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</t>
-<t tx="radoslav.20121118094703.1738"></t>
-<t tx="radoslav.20121118094703.1739">&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;“Една звезда устремена към семейството на другите звезди”&lt;/em&gt; - 2001 г.&lt;/strong&gt;
-Проект, реализиран по програма “Европа” на Европейската комисия. В работата по проекта участват партньори от Международната мрежа на Европейските клубове от Франция, Белгия, Португалия. Средношколци от 4 държави представят интеграционните процеси в Европа в различен аспект.
-Проектът получава първа награда в конкурса “Направено в България с подкрепата на Европа” – май 2002г в областта “Демокрация и гражданско общество”.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;“Националното творчество през погледа на професионалиста и младите изпълнители”&lt;/em&gt; - 2001 г.&lt;/strong&gt;
-Насочен към доближаването на младите хора до европейските ценности. Има за цел разбирането на Европейския съюз като единство на многообразието.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;“Европейските клубове – среща за диалог и реализация на европейското измерение в образованието и възпитанието”&lt;/em&gt; - 2000 г.&lt;/strong&gt;
-Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България.
-Национална среща на Европейските клубове, проведена 7-8 април 2000г в София, Витоша, на която се учредява Национално сдружение на българските Европейски клубове.&lt;/p&gt;
-
-&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;
-&lt;p style="text-align: right; margin-top: 0px; margin-right: 15px; padding-top: 2px;"&gt;&lt;a href="http://www.nabec.eu/wordpress/projects/2010-2009/"&gt;[2010-2009]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2008-2007/"&gt;[2008-2007]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2006-2005/"&gt;[2006-2005]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2004-2003/"&gt;[2004-2003]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2003-2002/"&gt;[2003-2002]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2001-2000/"&gt;[2001-2000]&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</t>
-<t tx="radoslav.20121118094703.1740">&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;“Една звезда устремена към семейството на другите звезди”&lt;/em&gt; - 2001&lt;/strong&gt;
-Проект, реализиран по програма “Европа” на Европейската комисия. В работата по проекта участват партньори от Международната мрежа на Европейските клубове от Франция, Белгия, Португалия. Средношколци от 4 държави представят интеграционните процеси в Европа в различен аспект.
-Проектът получава първа награда в конкурса “Направено в България с подкрепата на Европа” – май 2002г в областта “Демокрация и гражданско общество”.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;"National art through the eyes of professionals and young artists"&lt;/em&gt; - 2001&lt;/strong&gt;
-Aimed at bringing young people to European values. Aims at understanding the EU as a unity of diversity.&lt;/p&gt;
-
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/09/white70x70.png" alt="" align="left" /&gt;&lt;strong&gt;&lt;em&gt;“Европейските клубове – среща за диалог и реализация на европейското измерение в образованието и възпитанието”&lt;/em&gt; - 2000&lt;/strong&gt;
-Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България.
-Национална среща на Европейските клубове, проведена 7-8 април 2000г в София, Витоша, на която се учредява Национално сдружение на българските Европейски клубове.&lt;/p&gt;
-
-&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;
-&lt;p style="text-align: right; margin-top: 0px; margin-right: 15px; padding-top: 2px;"&gt;&lt;a href="http://www.nabec.eu/wordpress/projects/2010-2009/"&gt;[2010-2009]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2008-2007/"&gt;[2008-2007]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2006-2005/"&gt;[2006-2005]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2004-2003/"&gt;[2004-2003]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2003-2002/"&gt;[2003-2002]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2001-2000/"&gt;[2001-2000]&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</t>
 <t tx="radoslav.20121219203237.1692"></t>
 <t tx="radoslav.20121219203237.1694">„Да учим Европа чрез дейност”, 2012 
 Партньорство в проекта по дейност “Знания за ЕС в училище” на подпрограма „Жан Моне”, програма “Учене през целия живот”, реализиран от катедра „Европеистика”, СУ „Св. Кл. Охридски”. Съвместен екип от академични преподаватели и учители създават методически разработки на европейски теми, включени в учебно помагало “Аз съм гражданин на Европейския съюз” и компакт диск. http://bg-eu.eu
@@ -1081,25 +889,247 @@ Aimed at bringing young people to European values. Aims at understanding the EU 
 Провеждане на обучения за учители и експерти, по мярка „Образователни дейности” на секторните програми „Коменски” и „Грюндвиг”, на програма „Учене през целия живот”.
 
 “Младите за 2020”, 2011
-Проект, реализиран с подкрепата на Представителството на Европейдската комисия в България. На национална среща на Европейските клубове се дискутират проблемите на разширението на Европейския съюз, доколко „европейските мечти” на българина се реализират. Младежите изказват своите виждания и надежди за развитие на обединена Европа в следващите 10 години.</t>
+Проект, реализиран с подкрепата на Представителството на Европейдската комисия в България. На национална среща на Европейските клубове се дискутират проблемите на разширението на Европейския съюз, доколко „европейските мечти” на българина се реализират. Младежите изказват своите виждания и надежди за развитие на обединена Европа в следващите 10 години.
+
+„Как да преподаваме интерактивно”, 2010
+Провеждане на обучения за учители и експерти, по мярка „Образователни дейности” на секторните програми „Коменски” и „Грюндвиг”, на програма „Учене през целия живот.</t>
 <t tx="radoslav.20121219203237.1698"></t>
 <t tx="radoslav.20121219203237.1699"></t>
-<t tx="radoslav.20121219203237.1700">&lt;p id="myProjects_new"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/26_small.jpg" alt="" align="left" /&gt;&lt;strong&gt; 
+<t tx="radoslav.20121219203237.1700">&lt;p id="myProjects_new"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/26_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt; 
 &lt;em&gt;„Да учим Европа чрез дейност”&lt;/em&gt;, 2012&lt;/strong&gt;
 Партньорство в проекта по дейност “Знания за ЕС в училище” на подпрограма „Жан Моне”, програма “Учене през целия живот”, реализиран от катедра „Европеистика”, СУ „Св. Кл. Охридски”. Съвместен екип от академични преподаватели и учители създават методически разработки на европейски теми, включени в учебно помагало “Аз съм гражданин на Европейския съюз” и компакт диск. &lt;a href="http://bg-eu.eu"&gt;http://bg-eu.eu&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p id="myProjects_new"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/25_small.jpg" alt="" align="left" /&gt;&lt;strong&gt;
+&lt;p id="myProjects_new"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/25_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
 &lt;em&gt;„Мотивираща образователна среда”&lt;/em&gt;, 2012&lt;/strong&gt;
 Провеждане на обучения за учители и експерти, по мярка „Образователни дейности” на секторните програми „Коменски” и „Грюндвиг”, на програма „Учене през целия живот”.
 &lt;/p&gt;
 
-&lt;p id="myProjects_old"&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/24_small.jpg" alt="" align="left" /&gt;&lt;strong&gt;
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/24_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
 &lt;em&gt;„Euroscola Day”&lt;/em&gt;, 2008-2012&lt;/strong&gt;
 Участие на Европейски клубове в програмата на Европейския парламент „Euroscola Day”, провеждаща симулативните игри на Европейския парламент в Страсбург.
 &lt;/p&gt;
 
-&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;
-&lt;p style="text-align: right; margin-top: 0px; margin-right: 15px; padding-top: 2px;"&gt;&lt;a href="http://www.nabec.eu/wordpress/projects/2010-2009/"&gt;[2010-2009]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2008-2007/"&gt;[2008-2007]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2006-2005/"&gt;[2006-2005]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2004-2003/"&gt;[2004-2003]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2003-2002/"&gt;[2003-2002]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/projects/2001-2000/"&gt;[2001-2000]&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</t>
+&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;</t>
+<t tx="radoslav.20121226083650.1706"></t>
+<t tx="radoslav.20121226083650.1707">&lt;p style="text-align: right; margin-top: 0px; margin-right: 15px; padding-top: 2px;"&gt;&lt;a href="http://www.nabec.eu/wordpress/2011-10/"&gt;[2011-10]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/2010-09/"&gt;[2010-09]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/2008-07/"&gt;[2008-07]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/2006-05/"&gt;[2006-05]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/2004-03/"&gt;[2004-03]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/2003-02/"&gt;[2003-02]&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="http://www.nabec.eu/wordpress/2001-00/"&gt;[2001-00]&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</t>
+<t tx="radoslav.20121226083650.1708"></t>
+<t tx="radoslav.20121226083650.1709"></t>
+<t tx="radoslav.20121226083650.1710">&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/23_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt; 
+&lt;em&gt;„Интерактивно, за интерактивното обучение”&lt;/em&gt;, 2011&lt;/strong&gt;
+Провеждане на обучения за учители и експерти, по мярка „Образователни дейности” на секторните програми „Коменски” и „Грюндвиг”, на програма „Учене през целия живот”.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/22_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;„Младите за 2020”&lt;/em&gt;, 2011&lt;/strong&gt;
+Проект, реализиран с подкрепата на Представителството на Европейдската комисия в България. На национална среща на Европейските клубове се дискутират проблемите на разширението на Европейския съюз, доколко „европейските мечти” на българина се реализират. Младежите изказват своите виждания и надежди за развитие на обединена Европа в следващите 10 години.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/20_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;„Как да преподаваме интерактивно”&lt;/em&gt;, 2010&lt;/strong&gt;
+Провеждане на обучения за учители и експерти, по мярка „Образователни дейности” на секторните програми „Коменски” и „Грюндвиг”, на програма „Учене през целия живот.
+&lt;/p&gt;
+
+&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;</t>
+<t tx="radoslav.20121226083650.1711"></t>
+<t tx="radoslav.20121226083650.1712">&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/23_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt; 
+&lt;em&gt;„За по-устойчив Дом”&lt;/em&gt;, 2010&lt;/strong&gt;
+Проект, реализиран по Европейската образователна програма „Младежта в действие”
+Провеждане на редица еко-инициативи на Европейските клябове от различни градове в страната, подкрепящи призивите на Международната 2010-та година за запазване на биологичното разнообразие.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/22_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;„Euroscola Day”, програма на Европейския парламент&lt;/em&gt;, 2008, 2009&lt;/strong&gt;
+Участие на над 700 средношколци от 18 клуба на страната в програма на Европейския парламент за запознаване с работата на Европейския парламент чрез симулативни игри в Страсбург.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/20_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;„Образование, иновации, работа”&lt;/em&gt;, 2010&lt;/strong&gt;
+Проект, реализиран с подкрепата на Представителството на Европейдската комисия в България. Дискутират се новите насоки в политиките на Европейския съюз за европейско образование и реализацията на младите хора.
+&lt;/p&gt;
+
+&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;</t>
+<t tx="radoslav.20121226083650.1713">&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/23_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt; 
+&lt;em&gt;"For a sustainable home"&lt;/em&gt;, 2010&lt;/strong&gt;
+Project under the European educational program "Youth in Action"
+Conducting a number of eco-initiatives of the European klyabove from different cities in the country supporting international calls in 2010 to preserve biodiversity.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/22_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;"Euroscola Day", Programme of the European Parliament&lt;/em&gt;, 2008, 2009&lt;/strong&gt;
+Participation of over 700 high school students from 18 clubs in the country program of the European Parliament to study the work of the European Parliament by simulation games in Strasbourg.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/20_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;„Education, innovation, job"&lt;/em&gt;, 2010&lt;/strong&gt;
+Project implemented with the support of the Representation of Evropeydskata Commission in Bulgaria.
+Discussed new developments in EU policies for European education and professional development of young people.
+
+&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;</t>
+<t tx="radoslav.20121226083650.1714"></t>
+<t tx="radoslav.20121226083650.1715">&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/17_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt; 
+&lt;em&gt;"European clubs - a form of youth activity"&lt;/em&gt;, 2008&lt;/strong&gt;
+Project implemented with the support of the European Commission Representation in Bulgaria.
+Emphasis is youthful look one year membership in the European Union.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/16_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;"Everything begins with us"&lt;/em&gt;, 2008&lt;/strong&gt;
+Project implemented with the support of the European Commission Representation in Bulgaria.
+Conducted a series of activities showing the involvement of young people from European clubs to the environment.
+Cleaning the mouth of the river Iskar in Pancharevo lake and planting of three limes.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/15_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;"Young Bulgarians for the future of Europe"&lt;/em&gt;, 2007&lt;/strong&gt;
+Project implemented with the support of the Representation of Evropeydskata Commission in Bulgaria.
+Aimed at provoking the youth activity and responsibility for the future of the country, a united Europe.
+&lt;/p&gt;
+
+&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;</t>
+<t tx="radoslav.20121226083650.1716">&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/17_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt; 
+&lt;em&gt;„Всичко започва от нас”&lt;/em&gt;, 2008&lt;/strong&gt;
+Проект, реализиран с подкрепата на Представителството на Европейдската комисия в България. Провеждат се поредица от дейности, изразяващи съпричастността на младите хора от Европейските клубове към опазването на околната среда: почистване на устието на р.Искър в Панчаревското езеро; засаждане на липи.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/16_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;„Европейските клубове – форма на младежката активност”&lt;/em&gt;, 2008&lt;/strong&gt;
+Проект, реализиран с подкрепата на Представителството на Европейдската комисия в България. Младите дискутират и представят своята позиция за процесите на европейска интеграция след една година членство на страната ни в Европейския съюз.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/15_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;„Младите българи за бъдеща Европа”&lt;/em&gt;, 2007&lt;/strong&gt;
+Проект, реализиран с подкрепата на Представителството на Европейдската комисия в България. Работата е насочена към провокиране на младежката активност и отговорност за бъдещето на страната, на обединена Европа.
+&lt;/p&gt;
+
+&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;</t>
+<t tx="radoslav.20121226083650.1717"></t>
+<t tx="radoslav.20121226083650.1718">&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/17_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt; 
+&lt;em&gt;"Young Bulgarians and challenges European civil society"&lt;/em&gt;, 2006&lt;/strong&gt;
+Project implemented with the support of the Delegation of Evropeydskata Commission in Bulgaria.
+National Meeting of the European clubs in Pleven, which is obtained and competent information on new processes of European integration and discusses how Bulgarian values ​​may be entered in the European.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/16_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;"All Different - All Equal"&lt;/em&gt;, 2006&lt;/strong&gt;
+Ministry of Education and Science jointly promote the development of activities of European clubs in the country within the European campaign "All different - all equal".
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/15_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;"European clubs in Bulgaria and their role in European education of young people"&lt;/em&gt;, 2005&lt;/strong&gt;
+Project implemented with the support of European Commission Delegation in Bulgaria.
+National Meeting of the European clubs in Sofia, which shares the conviction of continuous attention and provoking interest of students to new knowledge. In this process need greater involvement by teams of teachers and parents.
+&lt;/p&gt;
+
+&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;</t>
+<t tx="radoslav.20121226083650.1719">&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/17_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt; 
+&lt;em&gt;„Всички различни – всички равни”&lt;/em&gt;, 2006&lt;/strong&gt;
+Участие на Европейските клубове в страната с дейности в рамките на европейската инициатива „Всички различни – всички равни”, финансово подкрепени от Министерство на образованието и науката и Съвета на Европа.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/16_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;„Младите българи и предизвикателствата на европейското гражданско общество”&lt;/em&gt;, 2006&lt;/strong&gt;
+Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. На национална среща на Европейските клубове в Плевен се получава актуална и компетентна информация относно новите процеси на европейска интеграция и се дискутира как българските ценности могат да се впишат в европейските.
+
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/15_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;„Европейските клубове в България и тяхната роля за европейското образование на младите хора”&lt;/em&gt;, 2005&lt;/strong&gt;
+Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. На национална среща на Европейските клубове в София се споделя убеждението за непрекъснато провокиране вниманието и интереса на учениците към нови знания, чрез новата форма на извънкласна работа с ученици – Европейски клуб. Отчита се необходимостта от по-голяма съпричастност на учителските колективи и на родителите.
+&lt;/p&gt;
+
+&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;</t>
+<t tx="radoslav.20121226083650.1720"></t>
+<t tx="radoslav.20121226083650.1721">&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/17_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;"Europe for us"&lt;/em&gt;, 2004&lt;/strong&gt;
+Project communication strategy of Bulgaria for EU membership.
+Realized a documentary, presenting educational programs of the European Union.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/16_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt; 
+&lt;em&gt;"European clubs - a form of education to build awareness of European citizenship"&lt;/em&gt;, 2004&lt;/strong&gt;
+Project implemented with the support of European Commission Delegation in Bulgaria.
+The emphasis is on understanding the Bulgarian participation in European integration and defending the Bulgarian positions in the unification process, which provokes the civic activism of young people.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/15_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;"For the future of Europe"&lt;/em&gt;, 2003&lt;/strong&gt;Project implemented with the support of the Delegation of Evropeydskata Commission in Bulgaria.
+Provoked is the creative activity of children, develops abstract thinking, build and develop skills for artistic expression of ideas and involvement of the European idea in their thinking.
+Carry out a national competition - school newspaper "EVROPANORAMA".
+&lt;/p&gt;
+
+&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;</t>
+<t tx="radoslav.20121226083650.1722">&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/17_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt; 
+&lt;em&gt;„Европа за нас”&lt;/em&gt;, 2004&lt;/strong&gt;
+Проект по Комуникационната стратегия на България за  пълноправночленство в ЕС.
+Създаден е документален филм, представящ образователните програми на Европейския съюз.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/16_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;„Европейските клубове – образователна форма за изграждане съзнание за европейско гражданство”&lt;/em&gt;, 2003&lt;/strong&gt;
+Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. Работата акцентира върху разбирането на българското участие в европейската интеграция и отстояването на българските позиции в този обединителен процес и се провокира гражданската активност на младите хора.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/15_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;„Интерактивни методи на работа на Европейските клубове”&lt;/em&gt;, 2003&lt;/strong&gt;
+Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. Разглежда се използването на методи за оригинално представяне и изучаване на европейската проблематика и възможностите за включване на интерактиви методи в работата на Европейските клубове в България.
+&lt;/p&gt;
+
+&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;</t>
+<t tx="radoslav.20121226083650.1723"></t>
+<t tx="radoslav.20121226083650.1724">&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/17_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt; 
+&lt;em&gt;"CD-tests for European integration"&lt;/em&gt;, 2003&lt;/strong&gt;
+Project implemented with the support of European Commission Delegation in Bulgaria.
+Implemented CD is an interactive game of knowledge about the European Union.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/16_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;"Interactive methods of work of the European clubs"&lt;/em&gt;, 2003&lt;/strong&gt;
+Project implemented with the support of European Commission Delegation in Bulgaria
+Emphasis on the use of original methods of presentation and study of European issues and opportunities for the inclusion of interactive methods in the work of European clubs in Bulgaria.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/15_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;"Christmas greeting for Europe"&lt;/em&gt;, 2002&lt;/strong&gt;
+Project implemented with the support of the Delegation of Evropeydskata Commission in Bulgaria.
+Students draw Christmas cards interweaving of three elements - Christmas, national and European.
+Naminiranata first prize for painting was a Christmas card Evropeydskata Commission Delegation in Bulgaria for the new 2003.
+&lt;/p&gt;
+
+&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;</t>
+<t tx="radoslav.20121226083650.1725">&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/17_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt; 
+&lt;em&gt;„CD-тестове за европейската интеграция”&lt;/em&gt;, 2003&lt;/strong&gt;
+Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. Създават се CD-тестове и на тяхна база се провежда интерактивна игра за знания за Европейския съюз.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/16_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;„За бъдеща Европа”&lt;/em&gt;, 2003&lt;/strong&gt;
+Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. Провокира се творческата активност на децата, развива се абстрактното мислене, изгражда се и се развиват умения за художествено изразяване на идеи и включване на европейската идея в тяхното мислене. Провежда се национален конкурс - училищен вестник “ЕВРОПАНОРАМА”.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/15_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;„Коледен поздрав за Европа”&lt;/em&gt;, 2002&lt;/strong&gt;
+Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. Ученици рисуват коледни картички с включени три елементи: коледен, национален и европейски. Наминираната за първа награда рисунка става коледна картичка на Делегацията на Европейдската комисия в България за Новата 2003 година.
+&lt;/p&gt;
+
+&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;</t>
+<t tx="radoslav.20121226083650.1726"></t>
+<t tx="radoslav.20121226083650.1727"></t>
+<t tx="radoslav.20121226083650.1728">&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/17_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt; 
+&lt;em&gt;„Една звезда устремена към семейството на другите звезди”&lt;/em&gt;, 2001&lt;/strong&gt;
+Проект, реализиран по програма “Европа” на Европейската комисия. В работата му се включват партньори от Международната мрежа на Европейските клубове от България, Франция, Белгия и Португалия. Средношколци от 4 държави представят интеграционните процеси в Европа в различен аспект. Проектът получава първа награда в конкурса “Направено в България с подкрепата на Европа” – май 2002г в областта “Демокрация и гражданско общество”.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/16_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;„Европейските клубове – среща за диалог и реализация на европейското измерение в образованието и възпитанието”&lt;/em&gt;, 2000&lt;/strong&gt;
+Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. На национална среща на Европейските клубове, октомври 2000 г в гр.Банкя се затвърждава убеждението за правилната посока на развитие на новата форма на извънкласна дейност в България – Европейски клуб.
+&lt;/p&gt;
+
+&lt;p id="myProjects_old"&gt;&lt;a href="" target=""&gt;&lt;img id="myProjects_img" src="http://www.nabec.eu/wordpress/wp-content/uploads/2012/12/15_small.jpg" alt="" align="left" /&gt;&lt;/a&gt;&lt;strong&gt;
+&lt;em&gt;„Широките възможности на европейските клубове като извънкласна форма на дейност”&lt;/em&gt;, 2000&lt;/strong&gt;
+Проект, реализиран с подкрепата на Делегацията на Европейдската комисия в България. На национална среща на Европейските клубове, 7-8 април 2000 г в София се учредява Национално сдружение на българските Европейски клубове.
+&lt;/p&gt;
+
+&lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;</t>
 </tnodes>
 </leo_file>
