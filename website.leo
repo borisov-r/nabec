@@ -150,7 +150,14 @@
 <v t="radoslav.20121118094703.1706"><vh>en</vh></v>
 </v>
 </v>
-<v t="borisov-r.20121115101932.1500"><vh>Members / Членове</vh>
+<v t="borisov-r.20121115101932.1500" a="E"><vh>Members / Членове</vh>
+<v t="radoslav.20121228000819.1686" a="E"><vh>wordpress</vh>
+<v t="radoslav.20121228000819.1688"><vh>en</vh></v>
+<v t="radoslav.20121228000819.1687" a="E"><vh>bg</vh>
+<v t="radoslav.20121228000819.1689"><vh>[a-b]</vh></v>
+<v t="radoslav.20121228000819.1690"><vh>[c-d]</vh></v>
+</v>
+</v>
 <v t="radoslav.20121118094703.1672"><vh>en</vh>
 <v t="radoslav.20121118094703.1673"><vh>Благоевград</vh></v>
 <v t="radoslav.20121118094703.1674"><vh>Бургас</vh></v>
@@ -175,7 +182,7 @@
 <v t="radoslav.20121118094703.1693"><vh>София</vh></v>
 <v t="radoslav.20121118094703.1694"><vh>Чепеларе</vh></v>
 </v>
-<v t="radoslav.20121118094703.1647"><vh>bg</vh>
+<v t="radoslav.20121118094703.1647" a="E"><vh>bg</vh>
 <v t="borisov-r.20121115101932.1501"><vh>Благоевград</vh></v>
 <v t="borisov-r.20121115101932.1502"><vh>Бургас</vh></v>
 <v t="borisov-r.20121115101932.1503"><vh>Велико Търново</vh></v>
@@ -1131,5 +1138,10 @@ Naminiranata first prize for painting was a Christmas card Evropeydskata Commiss
 &lt;/p&gt;
 
 &lt;div style="background-color: #80cc80; margin-top: 0px; height: 20px;"&gt;</t>
+<t tx="radoslav.20121228000819.1686"></t>
+<t tx="radoslav.20121228000819.1687"></t>
+<t tx="radoslav.20121228000819.1688"></t>
+<t tx="radoslav.20121228000819.1689"></t>
+<t tx="radoslav.20121228000819.1690"></t>
 </tnodes>
 </leo_file>
